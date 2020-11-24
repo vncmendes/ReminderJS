@@ -1,0 +1,29 @@
+.jumbotron-fluid {
+	background: #41f497;
+}
+
+#titular-new-reminder {
+	color: #41f497;
+}
+
+#titular-tarefas {
+	color: #41f497;
+}
+
+textarea {
+	border: 1px solid #41dff4;
+}
+
+.lembrete {
+	padding: 0.5em;
+	background-color: #41dff4;
+	color: white;
+}
+
+#buttonSave {
+	cursor: pointer;
+}
+
+#buttonSave, .fa-window-close {
+	cursor: pointer;
+}
